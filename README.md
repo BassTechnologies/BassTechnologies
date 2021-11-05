@@ -13,6 +13,7 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-Golem-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Framework-PyTest-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-TestNG-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
